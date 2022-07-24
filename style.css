@@ -1,0 +1,42 @@
+/* header part start */
+.heading{
+    color: white; position: absolute; text-align: center; top: 30%; width: 100%;
+}
+.heading-p{
+    color: white; position: absolute; text-align: center; top: 40%; width: 100%;
+}
+.heading-p2{
+    color: white; position: absolute; text-align: center; top: 45%; width: 100%;
+}
+.button{
+    color: rgba(7, 81, 240, 0.726); position: absolute; top: 60%;
+    height: 50px; width: 200px; border-radius: 15px; background-color: white;
+    font-size: 20px; margin-left: 40%; border-style: none;
+}
+/* header part end */
+/* main part start */
+.top{
+    margin-top: 70px;
+}
+.button-two{
+    background-color: rgb(4, 176, 245); border-style: none; font-size:medium;
+    color:white; height: 30px; width: 150px;
+}
+.top-two{
+  padding-top: 100px;
+}
+/* main part end */
+/* package part start */
+.package{
+     text-align: center; margin-top: 70px;
+}
+.package-two{
+    margin-top: 70px;
+}
+.text-muted{
+    font-size: large;
+}
+.style{
+    background-color: dodgerblue;
+    border-style: none;
+}
