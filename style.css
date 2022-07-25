@@ -38,5 +38,43 @@
 }
 .style{
     background-color: dodgerblue;
-    border-style: none;
+}
+/* package part end */
+/* clients part start */
+.client{
+    text-align: center;
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+.card-img-top{
+    border-radius: 50%;
+  
+   
+}
+.client-top{
+    text-align: center;
+}
+/* clients part end */
+/* Frequently part start */
+.Frequently{
+    margin-top: 70px;
+    margin-bottom: 70px;
+    text-align: center;
+}
+.hh{
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+}
+/* Frequently part end */
+/* Frequently part footer */
+.drak{
+    background-color: black;
+    height: 200px;
+    border-radius: 10px;
+}
+.icon{
+    text-align: center;
+    color: white;
 }
